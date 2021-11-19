@@ -74,5 +74,5 @@ experience:
     * Used fusion method to achieve false positive reduction.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
