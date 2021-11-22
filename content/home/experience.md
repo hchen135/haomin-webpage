@@ -29,7 +29,7 @@ experience:
     location: Bethesda, Maryland
     date_start: '2019-05-01'
     date_end: '2019-12-31'
-    description:
+    description: |2-
     Symmetric learning for Fracture Detection in Pelvic Trauma X-ray:
 
     * Accepted by ECCV with poster.
@@ -47,7 +47,7 @@ experience:
     location: Bethesda, Maryland
     date_start: '2018-05-01'
     date_end: '2018-12-31'
-    description: 
+    description: |2-
     Deep Hierarchical Multi-label Classification of Chest X-ray:
     
     * Accepted by MIDL 2019 with oral and special invitation to Journal Medical Image Analysis.
@@ -65,7 +65,7 @@ experience:
     location: Shanghai, China
     date_start: '2017-05-01'
     date_end: '2017-8-31'
-    description: 
+    description: |2-
     Lung nodule detection in CT images:
 
     * Achieved rank 6 out of 2887 teams in the Skylake competition sponsored by Intel and Alibaba.

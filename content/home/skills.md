@@ -22,10 +22,12 @@ feature:
   name: PyTorch
 - description: 
   name: TensorFlow
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 
+  name: Matlab
+- description: 
+  name: C++
+- description: 
+  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
